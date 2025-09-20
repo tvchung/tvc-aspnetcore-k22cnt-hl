@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TvcDay03View.props" />
+</Project>
