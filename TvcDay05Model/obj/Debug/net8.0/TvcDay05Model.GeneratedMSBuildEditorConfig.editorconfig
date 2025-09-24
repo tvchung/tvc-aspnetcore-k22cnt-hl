@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TvcDay05Model
+build_property.RootNamespace = TvcDay05Model
+build_property.ProjectDir = E:\Devmaster.edu.vn\K22CNT-NET-HL\tvc-aspnetcore-k22cnt-hl\TvcDay05Model\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Devmaster.edu.vn\K22CNT-NET-HL\tvc-aspnetcore-k22cnt-hl\TvcDay05Model
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/TvcMember/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/TvcMember/TvcCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjTWVtYmVyXFR2Y0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/TvcMember/TvcDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjTWVtYmVyXFR2Y0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/TvcMember/TvcDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjTWVtYmVyXFR2Y0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/TvcMember/TvcEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjTWVtYmVyXFR2Y0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/TvcMember/TvcGetMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjTWVtYmVyXFR2Y0dldE1lbWJlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/TvcMember/TvcGetMembers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjTWVtYmVyXFR2Y0dldE1lbWJlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Devmaster.edu.vn/K22CNT-NET-HL/tvc-aspnetcore-k22cnt-hl/TvcDay05Model/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2sj61fxcn3

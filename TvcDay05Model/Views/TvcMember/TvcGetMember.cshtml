@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Thông tin thành viên";
+    // Chuyển đổi kiểu
+    var tvcMember = @ViewBag.tvcMember as TvcDay05Model.Models.TvcMember;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Member Id: @ViewBag.tvcMember.MemberId </p>
+<p>FullName: @tvcMember.FullName</p>
+<p>UserName: @tvcMember.UserName</p>
+<p>Password: @tvcMember.Password</p>
+<p>Email: @tvcMember.Email</p>
+<hr/>

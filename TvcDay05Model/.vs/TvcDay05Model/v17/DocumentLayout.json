@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|e:\\devmaster.edu.vn\\k22cnt-net-hl\\tvc-aspnetcore-k22cnt-hl\\tvcday05model\\controllers\\tvcmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|solutionrelative:controllers\\tvcmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|e:\\devmaster.edu.vn\\k22cnt-net-hl\\tvc-aspnetcore-k22cnt-hl\\tvcday05model\\views\\tvcmember\\tvcdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|solutionrelative:views\\tvcmember\\tvcdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|e:\\devmaster.edu.vn\\k22cnt-net-hl\\tvc-aspnetcore-k22cnt-hl\\tvcday05model\\views\\tvcmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|solutionrelative:views\\tvcmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|e:\\devmaster.edu.vn\\k22cnt-net-hl\\tvc-aspnetcore-k22cnt-hl\\tvcday05model\\views\\tvcmember\\tvcdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|solutionrelative:views\\tvcmember\\tvcdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|e:\\devmaster.edu.vn\\k22cnt-net-hl\\tvc-aspnetcore-k22cnt-hl\\tvcday05model\\views\\tvcmember\\tvcgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|solutionrelative:views\\tvcmember\\tvcgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|e:\\devmaster.edu.vn\\k22cnt-net-hl\\tvc-aspnetcore-k22cnt-hl\\tvcday05model\\views\\tvcmember\\tvcedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|solutionrelative:views\\tvcmember\\tvcedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|e:\\devmaster.edu.vn\\k22cnt-net-hl\\tvc-aspnetcore-k22cnt-hl\\tvcday05model\\views\\tvcmember\\tvccreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68524AD4-A856-4215-9484-908F5ADE320B}|TvcDay05Model.csproj|solutionrelative:views\\tvcmember\\tvccreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TvcDelete.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\TvcDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcMember\\TvcDelete.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\TvcDelete.cshtml",
+              "RelativeToolTip": "Views\\TvcMember\\TvcDelete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvy0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T07:57:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TvcGetMember.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\TvcGetMember.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcMember\\TvcGetMember.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\TvcGetMember.cshtml",
+              "RelativeToolTip": "Views\\TvcMember\\TvcGetMember.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T07:50:54.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TvcDetails.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\TvcDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcMember\\TvcDetails.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\TvcDetails.cshtml",
+              "RelativeToolTip": "Views\\TvcMember\\TvcDetails.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAApwCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T07:50:45.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TvcEdit.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\TvcEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcMember\\TvcEdit.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\TvcEdit.cshtml",
+              "RelativeToolTip": "Views\\TvcMember\\TvcEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T07:44:07.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TvcCreate.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\TvcCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcMember\\TvcCreate.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\TvcCreate.cshtml",
+              "RelativeToolTip": "Views\\TvcMember\\TvcCreate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T07:30:19.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcMember\\Index.cshtml",
+              "ToolTip": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Views\\TvcMember\\Index.cshtml",
+              "RelativeToolTip": "Views\\TvcMember\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T07:24:19.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TvcMemberController.cs",
+              "DocumentMoniker": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Controllers\\TvcMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvcMemberController.cs",
+              "ToolTip": "E:\\Devmaster.edu.vn\\K22CNT-NET-HL\\tvc-aspnetcore-k22cnt-hl\\TvcDay05Model\\Controllers\\TvcMemberController.cs",
+              "RelativeToolTip": "Controllers\\TvcMemberController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwE0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:57:34.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
